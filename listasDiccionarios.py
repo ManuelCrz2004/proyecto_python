@@ -17,7 +17,6 @@ def run():
     }
 
     for key, value in super_dict.items():
-        print("Super dictionary Values: ")
         print(key, "-", value)
     
     for values in super_list:
